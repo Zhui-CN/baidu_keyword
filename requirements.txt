@@ -1,0 +1,7 @@
+python-scrapyd-api
+flask
+pymongo
+aiohttp
+scrapyd
+pywin32
+scrapy
